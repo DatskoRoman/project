@@ -1,0 +1,260 @@
+@media screen and (max-width: 480px) {
+    .father {
+        width: 480px;
+    }
+
+    .main_header_menu {
+        display: block;
+        text-align: inherit;
+        width: 100%;
+    }
+    .logo {
+        margin-left: 50px;
+    }
+    .menu, .buttons, .get_img, .best_img, .w_img, .company, .audio_2 {
+        display: none;
+    }
+.mobile_button{
+display: flex;
+    z-index: 1;
+    margin-top: -55px;
+  margin-left: 270px;
+}
+
+    .get_your {
+        text-align: center;
+        width: 100%;
+        box-sizing: border-box;
+    }
+
+    h1 {
+        font-size: 50px;
+        display: flex;
+        justify-content: center;
+        width: 100%;
+    }
+
+    .get_1 {
+        width: 100%;
+        margin-top: 27px;
+        margin-left: 0;
+    }
+
+    .get_2 {
+        width: 100%;
+        margin-top: 40px;
+        margin-left: 0;
+    }
+
+    .p_get_2 {
+        display: flex;
+        justify-content: center;
+        width: 100%;
+    }
+
+    .get_3 {
+        width: 100%;
+        margin-left: 0;
+    }
+
+    .g_3_b {
+        display: flex;
+        justify-content: center;
+    }
+
+    .best_text {
+        margin-top: 30px;
+        width: 100%;
+        font-size: 45px;
+        margin-left: 0;
+        text-align: center;
+    }
+    .best_img {
+        width: 480px;
+        margin-left: 0;
+        margin-top: 60px;
+    }
+    h2 {
+        text-align: inherit;
+        width: 100%;
+    }
+
+    .p_best_text_2 {
+        font-size: 20px;
+        margin-top: 33px;
+        text-align: inherit;
+        width: 100%;
+    }
+
+    .why_switch {
+        padding-top: 0;
+    }
+
+    .why_switch_column {
+        display: block;
+    }
+
+    h3 {
+        text-align: center;
+        width: 100%;
+        margin-left: 0;
+        padding-top: 0;
+    }
+
+    h4 {
+        font-size: 28px;
+        width: 100%;
+    }
+
+    .why_switch_column_1 {
+        margin-left: 0;
+        margin-top: 40px;
+        text-align: center;
+        width: 100%;
+    }
+
+    .why_switch_column_2 {
+        margin-left: 0;
+        margin-top: 20px;
+        text-align: center;
+        width: 100%;
+    }
+
+    .why_switch_column_3 {
+        margin-left: 0;
+        text-align: center;
+        margin-top: 20px;
+        width: 100%;
+    }
+
+
+    .button_w {
+        text-align: center;
+        margin-left: 0;
+        width: 100%;
+        padding-left: 0;
+        padding-bottom: 20px;
+        padding-top: 20px;
+    }
+
+    .b_w {
+        display: flex;
+        justify-content: center;
+        padding-bottom: 20px;
+    }
+
+    .button_why {
+        margin-top: 0;
+    }
+
+    .audio {
+        margin-top: 50px;
+    }
+
+    .audio_1 {
+        width: 100%;
+        margin-left: 0;
+        margin-top: 10px;
+    }
+
+    .p_audio {
+        margin-top: 0;
+        padding: 20px;
+    }
+
+    .ready {
+        background: #8BD4D6;
+        width: 100%;
+        margin: 0;
+        display: block;
+    }
+
+    h5 {
+        margin: 0;
+        text-align: center;
+        padding-top: 20px;
+    }
+
+    .ready_button {
+        margin-top: 0;
+    }
+
+    .p_ready {
+        padding-top: 0;
+        padding-left: 0;
+        padding-bottom: 0;
+        text-align: center;
+    }
+
+    .ready_2 {
+        display: flex;
+        justify-content: center;
+        padding: 20px;
+    }
+
+    .footer_columns {
+        display: block;
+    }
+
+    li {
+        list-style: revert;
+    }
+
+    .f_bl1 {
+        padding-left: 20px;
+    }
+
+    .f_bl2 {
+        padding-left: 20px;
+    }
+
+    .f_bl3 {
+        padding-left: 20px;
+    }
+
+    .f_bl4 {
+        padding-top: 10px;
+        padding-left: 20px;
+        padding-right: 40px;
+    }
+
+    .f_bl5 {
+        padding-left: 20px;
+        padding-top: 10px;
+        padding-right: 73px;
+    }
+
+    .f_bl6 {
+        padding-left: 20px;
+        padding-top: 10px;
+    }
+
+    .flex_ul {
+        display: flex;
+        margin-left: 0;
+        margin-top: 0;
+        padding-left: 20px;
+        padding-top: 20px;
+    }
+
+    .paddig_right_27 {
+        padding-right: 27px
+    }
+
+    .foo_logo {
+        margin-left: 0;
+        padding-bottom: 30px;
+        padding-right: 20px;
+
+    }
+
+    .title_logo {
+        width: 100%;
+    }
+
+    .li_none {
+        list-style: none;
+    }
+}
+
+
